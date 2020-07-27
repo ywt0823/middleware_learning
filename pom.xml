@@ -16,7 +16,7 @@
         <version>2.3.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.example</groupId>
+    <groupId>org.valhalla</groupId>
     <artifactId>middleware_learning</artifactId>
     <version>1.0-SNAPSHOT</version>
     <!-- 指定仓库-->
